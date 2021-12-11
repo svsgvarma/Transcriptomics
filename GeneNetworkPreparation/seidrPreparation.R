@@ -13,7 +13,7 @@ suppressPackageStartupMessages({
   library(readr)
 })
 
-#' Helper
+#' Helper script loaded 
 source(here("featureSelection.R"))
 
 #' # Data
